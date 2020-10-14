@@ -1,0 +1,36 @@
+{
+  "React Class组件": {
+    "prefix": "rcc",
+    "body": [
+      "import React from 'react'",
+      "",
+      "class Template$1 extends React.Component {",
+      "  render() {",
+      "    return <div>Template</div>",
+      "  }",
+      "}",
+      "",
+      "Template.propTypes = {}",
+      "",
+      "export default Template",
+      ""
+    ],
+    "description": "react class 组件代码"
+  },
+  "React Function组件": {
+    "prefix": "rfc",
+    "body": [
+      "import React from 'react'",
+      "",
+      "function Template$1(props) {",
+      "  return <div>Template</div>",
+      "}",
+      "",
+      "Template.propTypes = {}",
+      "",
+      "export default Template",
+      ""
+    ],
+    "description": "react function 组件代码"
+  }
+}

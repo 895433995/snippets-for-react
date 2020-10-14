@@ -1,0 +1,21 @@
+{
+  "name": "snippets-for-react",
+  "displayName": "snippets-for-react",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "tchen",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

@@ -2,6 +2,8 @@
 
 This is the README for the extension "snippets-for-react". After writing up a brief description, we recommend including the following sections.
 
+Search 'snippets-for-react' in VSCode store
+
 ## Features
 
 This folder contains react snippets.

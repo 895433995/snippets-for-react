@@ -14,7 +14,7 @@ Enter 'rfc' to create react function component.
 
 ## Release Notes
 
-### 1.0.0
+### 1.0.1
 
 Initial release of snippets-for-react
 

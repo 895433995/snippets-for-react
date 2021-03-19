@@ -4,6 +4,9 @@
   "description": "",
   "version": "1.0.1",
   "publisher": "tchen",
+  "scripts": {
+    "publish-vsce": "vsce publish"
+  },
   "repository": {
     "url": "git@github.com:895433995/snippets-for-react.git"
   },
